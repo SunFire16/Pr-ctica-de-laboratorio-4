@@ -1,0 +1,12 @@
+name: examen_application_1
+description: examen1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  http: ^1.2.1 # Dependencia para realizar solicitudes HTTP
